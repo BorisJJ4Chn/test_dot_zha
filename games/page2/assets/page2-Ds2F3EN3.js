@@ -1,1 +1,0 @@
-import{_ as n,o as a,c as o,a as r,d as t}from"../../../assets/_plugin-vue_export-helper-D2gZf-oe.js";const c={};function s(l,e){return a(),o("div",null,[...e[0]||(e[0]=[r("p",null,"页面 2",-1)])])}const p=n(c,[["render",s]]);t(p).mount("#app");
