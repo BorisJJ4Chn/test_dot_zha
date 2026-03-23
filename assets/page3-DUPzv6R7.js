@@ -1,1 +1,0 @@
-import{o,c as r,a as n,e as t}from"./runtime-dom.esm-bundler-ZLzchlUO.js";import{_ as a}from"./_plugin-vue_export-helper-DlAUqK2U.js";const c={};function s(l,e){return o(),r("div",null,[...e[0]||(e[0]=[n("p",null,"页面 3",-1)])])}const p=a(c,[["render",s]]);t(p).mount("#app");

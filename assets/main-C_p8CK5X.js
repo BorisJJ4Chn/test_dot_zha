@@ -1,0 +1,1 @@
+import{d as t,o as s,c as n,a as e,u as o,_ as c,b as p}from"./_plugin-vue_export-helper-BmqCvTKt.js";const _=["href"],r=t({__name:"App",setup(l){const a="/test_dot_zha";return(m,f)=>(s(),n("div",null,[e("nav",null,[e("a",{href:`${o(a)}/games/encyclopediaPage/index.html`},"猜百科",8,_)])]))}}),d=c(r,[["__scopeId","data-v-af58bd93"]]);p(d).mount("#app");
